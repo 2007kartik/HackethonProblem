@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.shubhamdeshmukh.hackethonproblem"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.shubhamdeshmukh.hackethonproblem"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
